@@ -1,16 +1,21 @@
-### Hi there 👋
+### 안녕하세요! 👋
+강남 소재의 사내 솔루션 FE 팀에 합류 중인 1년차 개발자 신혜지입니다.
+<br />
 
-<!--
-**quiet-space/quiet-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 기술
+<div align=left>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/jss-F7DF1E?style=for-the-badge&logo=jss&logoColor=white">
+  <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+<br />
 
-Here are some ideas to get you started:
+### 연락처
+`liexil97@gmail.com`
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 방문해주셔서 감사합니다! 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fquiet-space%2Fhit-counter&count_bg=%23C4C4C4&title_bg=%232942FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
